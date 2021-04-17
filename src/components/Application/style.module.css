@@ -1,0 +1,12 @@
+.wrapper {
+position: relative;
+}
+
+.main {
+    position: absolute;
+    width: 100%;
+}
+
+.menu{
+    margin:0;
+}
